@@ -1,0 +1,11 @@
+# Only needed for local development. Most of these are already installed in Google Colab or similar environments
+circuitsvis
+matplotlib
+nbformat
+numpy
+pandas
+plotly
+torch
+tqdm
+git+https://github.com/neelnanda-io/TransformerLens
+typing_extensions
