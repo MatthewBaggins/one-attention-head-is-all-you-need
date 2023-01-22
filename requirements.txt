@@ -1,4 +1,5 @@
-# Only needed for local development. Most of these are already installed in Google Colab or similar environments
+# Only needed for local development
+# Most of these are already installed in Google Colab or similar environments
 circuitsvis
 matplotlib
 nbformat
