@@ -1,3 +1,3 @@
 # models
 
-- `model_n` - model trained on notebook `n` (in `notebooks`)
+- `model_{n}` - model trained on notebook `n` (in `notebooks`)
